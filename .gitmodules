@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:goa2b/goa2b.github.io.git
+	branch = master
